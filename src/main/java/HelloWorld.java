@@ -1,6 +1,6 @@
 public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello World!");
-        // just add text on gitHub web for test
+        System.out.println("‘Hello mates!");
     }
 }
